@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan Yousaf</h1>
-<h3 align="center">A dedicated app developer turning innovative ideas into seamless digital experiences.</h3>
+<h3 align="center">A passionate Mobile & Flutter Developer turning innovative ideas into seamless digital experiences.</h3>
+
+<p align="center">
+  <a href="https://rehankhichi.online" target="_blank">🌐 My Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/rehanyousaf" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://github.com/rehanyousaf" target="_blank">🐱 GitHub</a>
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 <p align="left"> 
   <!-- Flutter & Dart -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -27,4 +33,20 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h3 align="left">📂 Projects & Work</h3>
+- <a href="https://rehankhichi.online" target="_blank">V-DRIVE Car Simulator (VR & Steering Wheel Support)</a> – A multi-level learning simulator for driving and car mechanics.
+- <a href="https://github.com/rehanyousaf/faaah" target="_blank">Faaah Flutter Package</a> – A fun and reusable Flutter package for memes and UI components.
+- <a href="https://github.com/rehanyousaf/portfolio" target="_blank">Portfolio Website</a> – Responsive portfolio showcasing apps, projects, and skills.
+
+---
+
+<h3 align="left">📫 Connect with Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehanyousaf" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://rehankhichi.online" target="_blank">🌐 Portfolio</a> • 
+  <a href="mailto:rehanyousaf@example.com">✉️ Email</a>
 </p>
