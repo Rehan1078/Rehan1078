@@ -32,7 +32,7 @@
 ## 🚀 About Me
 
 ```dart
-class MuhammadRehanYousaf extends FlutterDeveloper {
+class MuhammadRehanYousaf extends App-Developer {
 
   final String name        = "Muhammad Rehan Yousaf";
   final String role        = "Flutter Developer";
