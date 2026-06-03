@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Cross-Platform+Mobile+Architect+%F0%9F%9A%80;Firebase+%26+Supabase+Integrations+%F0%9F%94%A5;Pixel-Perfect+UI+Craftsman+%F0%9F%8E%A8;Clean+Code+%26+Architecture+Advocate+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=App+Developer+%F0%9F%92%99+%7C+Learning+%26+Building+Android+%26+iOS+Apps;Flutter+%26+Dart+Developer+%F0%9F%92%99;Cross-Platform+Mobile+Architect+%F0%9F%9A%80;Firebase+%26+Supabase+Integrations+%F0%9F%94%A5;Pixel-Perfect+UI+Craftsman+%F0%9F%8E%A8;Clean+Code+%26+Architecture+Advocate+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
