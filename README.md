@@ -154,22 +154,7 @@ class MuhammadRehanYousaf extends App-Developer {
 
 ---
 
-<!-- PROJECTS SECTION -->
-## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/Rehan1078/whatsapp-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan1078&repo=whatsapp-clone&theme=tokyonight&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=CDD6F4" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Rehan1078/smart_budget">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan1078&repo=smart_budget&theme=tokyonight&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=CDD6F4" />
-</a>
-</div>
-
-<br/>
-
----
 
 ### 🏆 **HoopStar** — UI-Focused Sports Mobile App
 > *Flutter • Figma • Responsive Design*
