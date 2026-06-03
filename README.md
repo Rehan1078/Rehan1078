@@ -12,9 +12,8 @@
 
 <!-- PROFILE BADGES ROW -->
 [![Email](https://img.shields.io/badge/Gmail-mrehan249249%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrehan249249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-yousaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rehan%20Yousaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-yousaf)
 [![GitHub](https://img.shields.io/badge/GitHub-Rehan1078-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rehan1078)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B92--3157339414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923157339414)
 
 <br/>
 
